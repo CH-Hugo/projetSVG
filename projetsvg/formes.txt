@@ -1,0 +1,2 @@
+Cercle : 45 85 452 #FFFFFF #FFFFFF
+Ellipse : 985 785 416 565 blue red

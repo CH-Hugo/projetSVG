@@ -1,0 +1,18 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "string.h": "c",
+        "couleurs.h": "c",
+        "creations.h": "c",
+        "ctype.h": "c",
+        "sauvegarde.h": "c",
+        "supprimer.h": "c",
+        "html.h": "c",
+        "structures.h": "c",
+        "stdio.h": "c",
+        "editer.h": "c",
+        "modifier.h": "c",
+        "stdlib.h": "c"
+    },
+    "C_Cpp.dimInactiveRegions": false
+}

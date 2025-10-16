@@ -1,0 +1,1 @@
+Polyline : 2 65,45 98,78 blue red
